@@ -3,7 +3,8 @@
 # gobackgammond
 
 A backgammon player (artificial intelligence) built atop
-https://github.com/chandler37/gobackgammon
+https://github.com/chandler37/gobackgammon and https://github.com/ajstarks/svgo
+(a scalable vector graphics library)
 
 The user interface is a web server (HTTP).
 
