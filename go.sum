@@ -1,4 +1,4 @@
 github.com/ajstarks/svgo v0.0.0-20181006003313-6ce6a3bcf6cd h1:JdtityihAc6A+gVfYh6vGXfZQg+XOLyBvla/7NbXFCg=
 github.com/ajstarks/svgo v0.0.0-20181006003313-6ce6a3bcf6cd/go.mod h1:K08gAheRH3/J6wwsYMMT4xOr94bZjxIelGM0+d/wbFw=
-github.com/chandler37/gobackgammon v0.1.7 h1:Im+zhRikSqFOPF79YNN/mvSai2M1V6DAyocb7Vqzdt4=
-github.com/chandler37/gobackgammon v0.1.7/go.mod h1:CKmAaWnxWlITHVZjrkq5OGnmspRVxTxcYKp2N34FOMk=
+github.com/chandler37/gobackgammon v0.1.8 h1:Jg7HvVX6cP6+rZbc+LLjuMYXXcoNhSnQAlmWz9tPdmk=
+github.com/chandler37/gobackgammon v0.1.8/go.mod h1:T64s/0ToUxUXynFLXjOCnXvs6/3UcgYgrI1HjH7rnGw=
